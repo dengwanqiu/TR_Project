@@ -40,4 +40,4 @@ TR_Project
 
 邓晚球  
 暑期实习 · 嵌入式软件调试  
-（可选：联系方式 / GitHub / 个人主页）
+联系方式 · HNCZdwq@163.com
